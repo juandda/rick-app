@@ -1,0 +1,24 @@
+.search-box-container{
+    text-align: center;
+}
+.search-box-container input{
+    border: none;
+    height: 28px;
+    width: 15%;
+    margin-top: 15px;
+    color: #FFEFEF;
+    background-color:#595260;
+    font-family: 'Mali', cursive   
+}
+.search-box-container input:focus{
+    outline: none;
+}
+.search-box-container button{
+    border: none;
+    width: auto;
+    height: 30px;
+    background-color: #6B4F4F;
+    padding: 2px;
+    color: #FFEFEF;
+    font-family: 'Mali', cursive
+}
